@@ -56,6 +56,13 @@ Automotive-Sales-Analytics-Dashboard/
 - Bundle low-volume products with best-selling items.
 - Explore emerging growth opportunities in Asia and Africa.
 
+ <img width="1416" height="792" alt="image" src="https://github.com/user-attachments/assets/047056a9-0d7a-4906-a638-6b20f6f38cf1" />
+
+<img width="1415" height="790" alt="image" src="https://github.com/user-attachments/assets/9250da94-bbbd-4aa2-b6c4-8e8914c64d02" />
+
+<img width="1414" height="791" alt="image" src="https://github.com/user-attachments/assets/6b1e18c3-de3b-4c86-870f-c3b4172bb182" />
+
+<img width="1413" height="791" alt="image" src="https://github.com/user-attachments/assets/ce01386b-3f2c-4783-9c09-352ba086c9a2" />
 
 ## Conclusion
 The business demonstrates strong revenue performance but faces risks from market concentration and margin compression. Strategic diversification and pricing optimization can support long-term sustainable growth.
